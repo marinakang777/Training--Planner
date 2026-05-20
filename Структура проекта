@@ -1,0 +1,4 @@
+├── training_planner.py   # Основной код приложения
+├── data.json             # Файл с данными (создаётся автоматически)
+├── .gitignore
+├── README.md
